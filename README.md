@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently doing my internship in Object Detection and Tracking<br>👯 I’m looking to collaborate on creating Indie Games<br>🤝 I’m looking for help with Python, C++, C# and Design Patterns<br>🌱 I’m currently learning Machine Learning, Deep Learning<br>💬 Ask me about anything I may help :)<br>⚡ Fun fact: One day, I'll be back on Twitch streams!!!
 
 
